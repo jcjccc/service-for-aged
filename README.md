@@ -4,11 +4,7 @@
 
 ####  **联系作者** 
 
-![联系作者](https://skywalking.pro/download/platform/main-platform.png "联系作者.png")
-
-**这是作者的微信二维码，如需本项目源代码，可扫码或者VX:SkywalkingPro联系作者。**  
-
-![微信二维码-1](https://singer-coder-public.oss-cn-chengdu.aliyuncs.com/%E5%BE%AE%E4%BF%A1%E4%BA%8C%E7%BB%B4%E7%A0%81-1.png?x-oss-process=image/resize,p_50 "微信二维码-1.png")
+**这是作者的微信，如需本项目源代码，可添加VX:Kairosclerosis_JC联系作者。**  
 
 **系统功能持续更新中。。。**
 #### 介绍
@@ -103,103 +99,6 @@
 - 登陆界面
 
 ![登陆界面](https://skywalking.pro/download/images/aged-stage/WX20230907-092230@2x.png "登陆界面.png")
-
-#### 系统管理模块
-
-- 系统主页
-
-
-![系统主页](https://skywalking.pro/download/images/aged-stage/WX20221227-174112@2x.png "系统主页.png")
-
-![图表统计](https://skywalking.pro/download/images/aged-stage/WX20221227-174200@2x.png "图表统计.png")
-
-- 菜单管理
-
-![菜单管理](https://skywalking.pro/download/images/aged-stage/WX20221227-174234@2x.png "菜单管理.png")
-
-![菜单管理](https://skywalking.pro/download/images/aged-stage/WX20221227-174315@2x.png "菜单管理.png")
-
-- 角色管理
-
-![角色管理](https://skywalking.pro/download/images/aged-stage/WX20221227-174351@2x.png "角色管理.png")
-
-- 系统用户管理
-
-![系统用户](https://skywalking.pro/download/images/aged-stage/WX20221227-174427@2x.png "系统用户.png")
-
-![系统用户](https://skywalking.pro/download/images/aged-stage/WX20221227-174504@2x.png
- "系统用户编辑.png")
-
-#### 系统监控模块
-
-- 系统日志
-
-![系统日志](https://skywalking.pro/download/images/aged-stage/WX20221227-174547@2x.png "系统日志.png")
-
-#### 业务模块
-
-- 老人管理
-
-![老人管理](https://skywalking.pro/download/images/aged-stage/WX20221227-174841@2x.png
- "老人管理")
-
-- 健康数据
-
-![老人管理](https://skywalking.pro/download/images/aged-stage/WX20221227-174940@2x.png
- "健康数据")
-
-- 床位管理
-
-![床位管理](https://skywalking.pro/download/images/aged-stage/WX20221227-175110@2x.png
- "床位管理")
-
-- 护工管理
-
-![护工管理](https://skywalking.pro/download/images/aged-stage/WX20221227-175743@2x.png "护工管理.png")
-
-- 亲属管理
-
-![亲属管理](https://skywalking.pro/download/images/aged-stage/WX20221227-175826@2x.png "亲属管理.png")
-
-- 探访申请信息
-
-![探访申请信息](https://skywalking.pro/download/images/aged-stage/WX20221227-175902@2x.png "探访申请信息.png")
-
-- 缴费信息
-
-![缴费信息](https://skywalking.pro/download/images/aged-stage/WX20221227-175947@2x.png "缴费信息.png")
-
-- 维修信息
-
-![缴费信息](https://skywalking.pro/download/images/aged-stage/WX20221227-180024@2x.png "维修信息.png")
-
-- 活动信息
-
-![缴费信息](https://skywalking.pro/download/images/aged-stage/WX20221227-180142@2x.png "活动信息.png")
-
-- 护工薪资信息
-
-![护工薪资信息](https://skywalking.pro/download/images/aged-stage/WX20221227-180240@2x.png "护工薪资信息.png")
-
-- 护工假勤信息
-
-![护工假勤信息](https://skywalking.pro/download/images/aged-stage/WX20221227-180357@2x.png "护工假勤信息.png")
-
-- 健康服务预约
-
-![护工假勤信息](https://skywalking.pro/download/images/aged-stage/WX20221227-180428@2x.png "健康服务预约.png")
-
-- 床位分配信息
-
-![床位分配信息](https://skywalking.pro/download/images/aged-stage/WX20221227-180517@2x.png "床位分配信息.png")
-
-- 资讯信息
-
-![资讯信息](https://skywalking.pro/download/images/aged-stage/WX20221227-180556@2x.png "资讯信息.png")
-
-![资讯信息新增](https://skywalking.pro/download/images/aged-stage/WX20221227-180655@2x.png "资讯信息新增.png")
-
-![资讯信息查看](https://skywalking.pro/download/images/aged-stage/WX20221227-180744@2x.png "资讯信息查看.png")
 
 #### 系统功能模块概要
 + 系统登陆
@@ -342,11 +241,7 @@
 
 ####  **联系作者** 
 
-![联系作者](https://skywalking.pro/download/platform/main-platform.png "联系作者.png")
-
-**这是作者的微信二维码，如需本项目源代码，可扫码或者VX:SkywalkingPro联系作者。**  
-
-![微信二维码-1](https://singer-coder-public.oss-cn-chengdu.aliyuncs.com/%E5%BE%AE%E4%BF%A1%E4%BA%8C%E7%BB%B4%E7%A0%81-1.png?x-oss-process=image/resize,p_50 "微信二维码-1.png")
+**这是作者的微信，如需本项目源代码，可添加VX:Kairosclerosis_JC联系作者。**  
 
 #### 安装教程
 
